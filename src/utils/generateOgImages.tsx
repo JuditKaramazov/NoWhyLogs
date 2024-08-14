@@ -6,12 +6,12 @@ import siteOgImage from "./og-templates/site"
 
 const fetchFonts = async () => {
   const fontFileRegular = await fetch(
-    "https://github.com/fontsource/fontsource/blob/main/fonts/source-code-pro/files/source-code-pro-latin-400-normal.woff2"
+    "https://github.com/fontsource/fontsource/raw/main/fonts/source-code-pro/files/source-code-pro-latin-400-normal.woff2"
   )
   const fontRegular: ArrayBuffer = await fontFileRegular.arrayBuffer()
 
   const fontFileBold = await fetch(
-    "https://github.com/fontsource/fontsource/blob/main/fonts/source-code-pro/files/source-code-pro-latin-600-normal.woff2"
+    "https://github.com/fontsource/fontsource/raw/main/fonts/source-code-pro/files/source-code-pro-latin-600-normal.woff2"
   )
   const fontBold: ArrayBuffer = await fontFileBold.arrayBuffer()
 
