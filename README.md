@@ -307,7 +307,7 @@ Which translates into: **Hay esperanza.**
 
 ## 🏛 License & Copyright
 
-This work lives under the robust, warm, and beautiful roof of the [MIT License](LICENSE.txt); whatever visual or written content scapes from it, you'll always find a proper reference specifying the authors and websites behind it.
+This work lives under the robust, warm, and beautiful roof of the [MIT License](/LICENSE); whatever visual or written content scapes from it, you'll always find a proper reference specifying the authors and websites behind it.
 
 Attributions are essential these days, and whoever took part directly _or_ indirectly in this project deserves the best possible recognition. That said, and only if you enjoyed what you found here, remember that you can make the Dinosaur extremely happy if you...
 <br />
